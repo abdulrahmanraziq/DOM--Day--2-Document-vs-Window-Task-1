@@ -1,0 +1,38 @@
+.calculator {
+    width: 600px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background: #DADADA;
+}
+.calculator input {
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 10px;
+    font-size: 20px;
+    background: #B9B9B9;
+}
+.calculator button {
+    width: 24%;
+    padding: 10px;
+    font-size: 15px;
+    cursor: pointer;
+    border: none;
+    background: none;
+}
+.calculator button:hover {
+    background-color: #B9B9B9;
+}
+
+
+.equalToButton{
+    background: #086fe6!important;
+    width: 50%!important;
+    color: #fff;
+}
+
+.red{
+    color: #f00;
+}
